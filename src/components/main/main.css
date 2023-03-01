@@ -1,0 +1,100 @@
+.hero{
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-left: 57px;
+    margin-right: 57px;
+    position: relative;
+    height: 100vh;
+}
+
+.hero1{
+    /* margin-top: 149px; */
+    /* border: solid red 2px; */
+    
+}
+
+.hero h3{
+    margin-top: 108px;
+
+    width: 476px;
+    height: 275px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 70px;
+    line-height: 85px;
+
+    color: #000000;
+}
+.hero-title span{
+    color: #14B2E3;
+}
+
+.hero1 p{
+    margin-top: 4px;
+    width: 502px;
+    height: 167px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+
+.hero-btns a{
+    /* box-sizing: border-box; */
+    text-decoration: none;
+    margin-right: 10px;
+
+    text-decoration: none;
+    color: #fff; 
+    margin-top: 20px;
+    
+    padding: 7px 21px;
+    gap: 10px;
+
+    color: #FFFFFF;
+
+    border-radius: 10px;
+}
+
+.hero-btns .startProject{
+    background: #3A537A;
+}
+
+.hero-btns .shop{
+    background: #14B2E3;
+}
+
+.hero2{
+    position: relative;
+}
+
+
+.square{
+    position: absolute;
+    background-color: #14B2E3;
+    width: 33vw;
+    height: 58vh;
+    left: 70px;
+    top: 70px;
+}
+
+.hero .carousel_container{
+    /* border: solid red 2px; */
+
+    position: relative;
+
+    width: 50vw;
+    height: 61vh;
+
+    top: 120px;
+    left: 120px;
+}
